@@ -2,7 +2,7 @@
 
 This is a basic calculator web application built using HTML, CSS, and JavaScript. It performs simple arithmetic operations like addition, subtraction, multiplication, and division.
 
-![alt text](<Screenshot 2025-02-09 at 17.48.18.png>)
+/Users/devanshsingh/Documents/Screenshots/Screenshot 2025-02-09 at 17.48.18.png
 
 ## Features
 
@@ -26,5 +26,5 @@ This is a basic calculator web application built using HTML, CSS, and JavaScript
 
 ## Deployed Link
 
-[Netlify Deployed Link](Replace with your actual Netlify link)
+[Netlify Deployed Link](https://simple-calculator-41.netlify.app/)
 

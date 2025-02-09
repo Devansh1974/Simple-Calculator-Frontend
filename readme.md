@@ -2,7 +2,7 @@
 
 This is a basic calculator web application built using HTML, CSS, and JavaScript. It performs simple arithmetic operations like addition, subtraction, multiplication, and division.
 
-/Users/devanshsingh/Documents/Screenshots/Screenshot 2025-02-09 at 17.48.18.png
+![alt text](/Users/devanshsingh/Documents/Screenshots/Screenshot 2025-02-09 at 17.56.18.png)
 
 ## Features
 
